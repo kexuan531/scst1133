@@ -8,7 +8,7 @@ Saya baru memulakan perjalanan saya dalam dunia pengaturcaraan dan GitHub. Sanga
 - 📚 Sedang mempelajari: **Git & GitHub, Programming**
 - 🎯 Matlamat: **Membina projek pertama saya di GitHub**
 - 💬 Tanya saya tentang: **Perkara asas yang sedang saya pelajari**
-- 📫 Cara menghubungi saya: **[Emel Saya](mailto:teokexuan@graduate.utm.my)**
+- 📫 Cara menghubungi saya: **[teokexuan@graduate.utm.my]**
 
 ---
 
